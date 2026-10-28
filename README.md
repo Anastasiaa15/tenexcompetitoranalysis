@@ -1,2 +1,1 @@
-# tenexcompetitoranalysis
-Tenex Final Project
+
